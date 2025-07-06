@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I enjoy building impactful projects, learning ne
 
 ## 📫 Contact Me
 
-- LinkedIn: [linkedin.com/in/yong-chi-foo](linkedin.com/in/yong-chi-foo)
+- LinkedIn: [linkedin.com/in/yong-chi-foo](https://linkedin.com/in/yong-chi-foo)
 - Email: [yongchi_foo@yahoo.com](mailto:yongchi_foo@yahoo.com)
 
 ---
